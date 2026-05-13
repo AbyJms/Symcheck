@@ -30,6 +30,6 @@ Check out the live application here: [symcheck](https://symcheck-five.vercel.app
 ---
 
 ## 🤝 Contributing
-Contributions are welcome! If you're participating in **GSSoC '26**, feel free to fork this repo and submit a PR.
+Contributions are welcome! Feel free to fork this repo and submit a PR.
 
 **Author:** [AbyJms](https://github.com/AbyJms)
